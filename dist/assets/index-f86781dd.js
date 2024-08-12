@@ -40,3 +40,4 @@
   }
 })();
 const style = "";
+console.log("hello");
